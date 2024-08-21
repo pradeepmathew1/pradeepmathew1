@@ -20,6 +20,14 @@ I'm **Pradeep Mathew**, a passionate DevOps Automation Engineer with a focus on 
 
 I'm always exploring new technologies and methodologies to stay at the forefront of the DevOps landscape. Currently, I'm diving into Kubernetes Administration and Robotic Process Automation.
 
+## 📚 Certifications
+
+| AWS | Azure    | Other    |
+| :-----: | :---: | :---: |
+| AWS Solution Architect Associate | Azure DevOps Engineer Expert   | HashiCorp Certified: Terraform Associate   |
+| AWS Cloud Practitioner | Azure Administrator   |  GitOps Fundamentals  |
+| AWS Certified AI Practitioner | Azure Fundamentals   |  ITIL 3&4 Foundation  |
+
 ## 📫 Get in Touch
 
 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/pradeep-mathew-97420523/)
